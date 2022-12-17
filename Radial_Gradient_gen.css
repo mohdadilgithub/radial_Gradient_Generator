@@ -1,0 +1,45 @@
+body {
+    font-family: 'Krona One', sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    background:radial-gradient(circle,red,blue,white)
+}
+#gradient{
+    margin-top: 350px;
+    height: 300px;
+    width: 350px;
+    /* display: flex; */
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+button {
+    border-radius: 25%;
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Krona One', sans-serif;
+    box-shadow: 3px 5px 14px #55324f;
+    cursor: pointer;
+}
+.color1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+}
+.color2 {
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.color3 {
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
